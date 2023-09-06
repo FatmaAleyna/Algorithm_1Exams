@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exm23 { //YAPAMADIM
+public class Exm23 { 
     // klavyeden girilen 10 adet sayıyı büyükten küçüğe sıralayan programı yapınız
 
     public static void main(String[] args) {
